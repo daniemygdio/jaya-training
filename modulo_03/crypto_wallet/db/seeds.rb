@@ -21,9 +21,20 @@ coins = [
         description: "Dash",
         acronym: "DASH",
         url_image: "https://s2.coinmarketcap.com/static/img/coins/200x200/660.png"
+    },
+    {
+        description: "Iota",
+        acronym: "IOT",
+        url_image: "http://icons.iconarchive.com/icons/cjdowner/cryptocurrency/256/IOTA-icon.png"
+    },
+    {
+        description: "ZCash",
+        acronym: "ZEC",
+        url_image: "https://cdn4.iconfinder.com/data/icons/cryptocurrency-vanilla-coins/90/Coin-ZEC-Vanilla-512.png"
     }
 ]
 
 coins.each do |coin|
     Coin.find_or_create_by!(coin)
 end
+
