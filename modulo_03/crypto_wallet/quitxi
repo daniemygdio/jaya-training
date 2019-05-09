@@ -1,0 +1,21 @@
+=> [[32m#<Coin:0x000056108d469c10[0m
+  id: [1;34m1[0m,
+  description: [31m[1;31m"[0m[31mBitcoin[1;31m"[0m[31m[0m,
+  acronym: [31m[1;31m"[0m[31mBTC[1;31m"[0m[31m[0m,
+  url_image: [31m[1;31m"[0m[31mhttp://pngimg.com/uploads/bitcoin/bitcoin_PNG47.png[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mWed[0m, [1;34m08[0m [1;34;4mMay[0m [1;34m2019[0m [1;34m15[0m:[1;34m25[0m:[1;34m53[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mWed[0m, [1;34m08[0m [1;34;4mMay[0m [1;34m2019[0m [1;34m17[0m:[1;34m42[0m:[1;34m35[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Coin:0x000056108d47fc90[0m
+  id: [1;34m2[0m,
+  description: [31m[1;31m"[0m[31mEthereum[1;31m"[0m[31m[0m,
+  acronym: [31m[1;31m"[0m[31mETH[1;31m"[0m[31m[0m,
+  url_image: [31m[1;31m"[0m[31mhttps://i.redd.it/bfo1798dlo7z.png[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mWed[0m, [1;34m08[0m [1;34;4mMay[0m [1;34m2019[0m [1;34m15[0m:[1;34m26[0m:[1;34m10[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mWed[0m, [1;34m08[0m [1;34;4mMay[0m [1;34m2019[0m [1;34m17[0m:[1;34m43[0m:[1;34m42[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Coin:0x000056108d47fb50[0m
+  id: [1;34m3[0m,
+  description: [31m[1;31m"[0m[31mDash[1;31m"[0m[31m[0m,
+  acronym: [31m[1;31m"[0m[31mDASH[1;31m"[0m[31m[0m,
+  url_image: [31m[1;31m"[0m[31mhttps://s2.coinmarketcap.com/static/img/coins/200x200/660.png[1;31m"[0m[31m[0m,
+  created_at: [1;34;4mThu[0m, [1;34m09[0m [1;34;4mMay[0m [1;34m2019[0m [1;34m13[0m:[1;34m19[0m:[1;34m34[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mThu[0m, [1;34m09[0m [1;34;4mMay[0m [1;34m2019[0m [1;34m13[0m:[1;34m19[0m:[1;34m34[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m]

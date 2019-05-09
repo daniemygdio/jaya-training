@@ -6,15 +6,10 @@
 <p>Imprimindo a variável: <%= texto %> </p>
 <p>A data de hoje é: <%= brazilian_date(Date.today) %> </p>
 
-<ul>
-    <li> 
-        <a href="/coins">Cadastro de Moedas</a><!-- em html-->
-    </li>
-    <li> 
-        <%= link_to "Cadastro de Moedas", coins_path %><!--usando ERB-->
-    </li>
-</ul>
+<%= render "menu" %>
 
 <p>Você está em ambiente de <%= translate_environment %> </p>
 
 <p>variável <%= @random_number %> </p>
+
+<p>meu nome é <%= @my_name %>
